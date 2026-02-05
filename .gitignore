@@ -1,0 +1,60 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+coverage/
+.nyc_output/
+.pytest_cache/
+.hypothesis/
+
+# Uploads
+uploads/
+*.jpg
+*.jpeg
+*.png
+!test/fixtures/*.jpg
+!test/fixtures/*.jpeg
+!test/fixtures/*.png
+
+# ML Models (large files - should be downloaded separately)
+ml-service/models/*.h5
+ml-service/models/*.pt
+ml-service/models/*.model
+
+# OS
+Thumbs.db

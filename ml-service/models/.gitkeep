@@ -1,0 +1,6 @@
+# Placeholder for ML model files
+# Place pre-trained models here:
+# - mobilenet_classifier.h5
+# - resnet_extractor.h5
+# - yolov5_detector.pt
+# - xgboost_severity.model
