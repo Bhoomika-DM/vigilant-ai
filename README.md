@@ -1,5 +1,5 @@
 # Vigilant AI - Smart Infrastructure Monitoring & Complaint Prioritization System
-
+##Deployed Link: https://sampoornasuraksha.netlify.app/
 Vigilant AI is a full-stack web application that enables citizens to submit infrastructure complaints with images. The system uses AI models to automatically detect, classify, and prioritize civic infrastructure issues, providing authorities with an intelligent dashboard for complaint management and resolution tracking.
 
 ## 🏗️ Architecture
